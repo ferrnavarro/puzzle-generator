@@ -1,0 +1,5 @@
+{
+  "name": "WordSearch Pro",
+  "description": "A professional-grade word search puzzle generator featuring customizable grids, multi-direction word placement, and print-ready exports.",
+  "requestFramePermissions": []
+}
